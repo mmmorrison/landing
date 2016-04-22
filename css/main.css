@@ -150,6 +150,14 @@ textarea {
       margin-bottom: 30px;
     }
 
+    #parallax{
+      height: 500px;
+      background-image: url(../img/ipadApp.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+
 
 
 
