@@ -150,12 +150,17 @@ textarea {
       margin-bottom: 30px;
     }
 
-    #parallax{
+    section#parallax{
       height: 500px;
       background-image: url(../img/ipadApp.jpg);
       background-repeat: no-repeat;
       background-attachment: fixed;
       background-size: cover;
+    }
+    h2.parallax{
+      font-size: 3.6em;
+      color: #fff;
+      font-weight: 700;
     }
 
 
