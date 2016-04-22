@@ -161,8 +161,13 @@ textarea {
       font-size: 3.6em;
       color: #fff;
       font-weight: 700;
+      text-shadow: 0px 7px 8px black;
+      -moz-text-shadow: 0px 7px 8px black;
+      -webkit-text-shadow: 0px 7px 8px black;
     }
-
+h2.parallax:after{
+  display: none;
+}
 
 
 
