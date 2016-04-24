@@ -150,7 +150,7 @@ textarea {
       margin-bottom: 30px;
     }
 
-    section#parallax{
+    section #parallax{
       height: 500px;
       background-image: url(../img/ipadApp.jpg);
       background-repeat: no-repeat;
@@ -167,6 +167,14 @@ textarea {
     }
 h2.parallax:after{
   display: none;
+}
+section #download{
+  padding-bottom:   : 0;
+}
+section #download .content-downloads{
+  height: 700px;
+  position: relative;
+  
 }
 
 
