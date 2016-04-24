@@ -198,12 +198,13 @@ section#download .downloads-empty{
   background-repeat: no-repeat;
   background-position: bottom right;
 }
-
-
-
-
-
-
+section#download .download{
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: 50px;
+}
 
 
 
