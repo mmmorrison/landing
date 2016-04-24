@@ -179,7 +179,11 @@ section #download .content-downloads{
   border: 10px solid red;
   position: relative;
 }
-
+.phone img{
+  border: 5px solid green;
+  position: absolute;
+  bottom: 0;  
+}
 
 
 
