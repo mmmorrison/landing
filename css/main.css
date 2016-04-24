@@ -174,9 +174,11 @@ section #download{
 section #download .content-downloads{
   height: 700px;
   position: relative;
-  
 }
-
+.phone{
+  border: 10px solid red;
+  position: relative;
+}
 
 
 
