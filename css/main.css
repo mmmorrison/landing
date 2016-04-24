@@ -176,13 +176,16 @@ section #download .content-downloads{
   position: relative;
 }
 .phone{
-  border: 10px solid red;
   position: relative;
+  width: 50%;
+  height: 100%;
+  float: left;
+  box-shadow: inset -7px -7px 12px -2px
+
 }
 .phone img{
-  border: 5px solid green;
   position: absolute;
-  bottom: 0;  
+  bottom: 0;
 }
 
 
