@@ -213,7 +213,22 @@ section#download .platforms > div{
   position: relative;
   padding-left: 50px;
   color: #0c243d;
+}
+#support{
+  padding-bottom: 0;
+  background-color: #1a3d61;
+}
+#support h2{
+  color: #ffffff;
 
+}
+#support h2:after{
+  color: #ffffff;
+  background-color: #ffffff;
+}
+#support p{
+  font-size: 1.6em;
+  color: #ffffff;
 }
 
 
