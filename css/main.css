@@ -196,6 +196,7 @@ section#download .downloads-empty{
   z-index: 2;
   background-image: url(../img/downloadAppBG.png);
   background-repeat: no-repeat;
+  background-position: bottom right;
 }
 
 
